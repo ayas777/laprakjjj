@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background: linear-gradient(to right, pink, #c8a2c8, lightblue); /* Ungu lilac: #C8A2C8 */
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold; /* Membuat teks menjadi tebal (bold) */
+}
+
+#Projects {
+  background: linear-gradient(to right, pink, #c8a2c8, lightblue);
+}
+
+section {
+  padding-top: 5rem; /* Spasi sudah diperbaiki */
+  background: linear-gradient(to right, pink, #c8a2c8, lightblue);
+}
